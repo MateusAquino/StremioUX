@@ -4,6 +4,9 @@
 
 <p align="center">🛠️ <strong>StremioUX</strong> is a BetterStremio plugin for patching Stremio's UX quirks.</p>
 
+> [!WARNING]
+> NOTICE: This plugin is **deprecated** and will be integrated automatically into future versions of BetterStremio.
+
 ## 🎉 StremioUX
 
 You must download [BetterStremio](https://github.com/MateusAquino/BetterStremio) to use this plugin. **StremioUX** was developed to fix weird Stremio player behaviours. This Plugin works by changing the `#playerTpl` with custom angular instructions plus monkey patching the `playerCtrl`.  
